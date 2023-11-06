@@ -160,8 +160,7 @@ cython_debug/
 
 .idea/
 
-try_all.py
+#database.ini
 
-ideas.txt
+helpful_classes.py
 
-database.ini
