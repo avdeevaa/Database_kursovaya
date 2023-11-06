@@ -1,0 +1,917 @@
+{
+    "items": [
+        {
+            "id": "88578625",
+            "premium": false,
+            "name": "Кредитный аналитик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-24T12:19:13+0300",
+            "created_at": "2023-10-24T12:19:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88578625",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88578625?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88578625",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее образование. Опыт работы по указанному направлению от 3 лет. Знание основ макроэкономики, умение углубленной работы с аналитическими материалами. ",
+                "responsibility": "Структурирование сделок по операциям кредитного характера. Анализ существенных условий планируемых к осуществлению сделок и источников исполнения обязательств. Углубленный анализ финансового..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "57",
+                    "name": "Кредитный специалист"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "86563959",
+            "premium": false,
+            "name": "Менеджер по продажам (ст.м.Якуба Коласа)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": 0.0,
+                "lng": 0.0,
+                "description": null,
+                "raw": "б. Мулявина, 6",
+                "metro": null,
+                "metro_stations": [],
+                "id": "220206"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-11T12:27:28+0300",
+            "created_at": "2023-10-11T12:27:28+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86563959",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/86563959?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/86563959",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Средне-специальное/высшее образование. Хорошие навыки в сфере продаж или склонности к данному виду деятельности. Желание развиваться в сфере продаж...",
+                "responsibility": "Продажа розничных банковских продуктов и услуг (кредиты, овердрафты, депозиты, банковские платежные карты). Оформление сделок по розничным продуктам; выполнение доведенных планов..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88843500",
+            "premium": true,
+            "name": "Менеджер по продажам (ст.м.Малиновка)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Минск",
+                "street": "проспект Дзержинского",
+                "building": "119",
+                "lat": 53.851256,
+                "lng": 27.47677,
+                "description": null,
+                "raw": "Минск, проспект Дзержинского, 119",
+                "metro": null,
+                "metro_stations": [],
+                "id": "13211999"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-30T16:53:19+0300",
+            "created_at": "2023-10-30T16:53:19+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88843500",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88843500?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88843500",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Средне-специальное/высшее образование. Хорошие навыки в сфере продаж или склонности к данному виду деятельности. Желание развиваться в сфере продаж...",
+                "responsibility": "Продажа розничных банковских продуктов и услуг (кредиты, овердрафты, депозиты, банковские платежные карты). Презентация розничных банковских продуктов. Оформление сделок по розничным..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88464199",
+            "premium": false,
+            "name": "Продуктолог корпоративного бизнеса",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Минск",
+                "street": "проспект Независимости",
+                "building": "32А",
+                "lat": 53.904772,
+                "lng": 27.569341,
+                "description": null,
+                "raw": "Минск, проспект Независимости, 32А",
+                "metro": {
+                    "station_name": "Октябрьская",
+                    "line_name": "Московская",
+                    "station_id": "62.410",
+                    "line_id": "62",
+                    "lat": 53.901562,
+                    "lng": 27.561068
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Октябрьская",
+                        "line_name": "Московская",
+                        "station_id": "62.410",
+                        "line_id": "62",
+                        "lat": 53.901562,
+                        "lng": 27.561068
+                    },
+                    {
+                        "station_name": "Площадь Победы",
+                        "line_name": "Московская",
+                        "station_id": "62.409",
+                        "line_id": "62",
+                        "lat": 53.908644,
+                        "lng": 27.575054
+                    }
+                ],
+                "id": "7684170"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-20T15:55:08+0300",
+            "created_at": "2023-10-20T15:55:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88464199",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88464199?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88464199",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы в подразделениях методологии кредитования юридических лиц или подразделениях кредитования корпоративных клиентов. Знание кредитного процесса в отношении корпоративных клиентов...",
+                "responsibility": "Разработка ЛПА в области проведения активных операций с корпоративными клиентами сегмента Средний+. Разработка и внедрение кредитных продуктов для клиентов сегмента..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "155",
+                    "name": "Методолог"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88631392",
+            "premium": false,
+            "name": "Менеджер по продажам",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2328",
+                "name": "Солигорск",
+                "url": "https://api.hh.ru/areas/2328"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-25T12:16:42+0300",
+            "created_at": "2023-10-25T12:16:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88631392",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88631392?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88631392",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Средне-специальное/высшее образование. Хорошие навыки в сфере продаж или склонности к данному виду деятельности. Желание развиваться в сфере продаж...",
+                "responsibility": "Продажа розничных банковских продуктов и услуг (кредиты, овердрафты, депозиты, банковские платежные карты). Оформление сделок по розничным продуктам. Выполнение доведенных планов..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88404709",
+            "premium": false,
+            "name": "Менеджер по цифровому привлечению",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Минск",
+                "street": "проспект Независимости",
+                "building": "32А",
+                "lat": 53.904772,
+                "lng": 27.569341,
+                "description": null,
+                "raw": "Минск, проспект Независимости, 32А",
+                "metro": {
+                    "station_name": "Октябрьская",
+                    "line_name": "Московская",
+                    "station_id": "62.410",
+                    "line_id": "62",
+                    "lat": 53.901562,
+                    "lng": 27.561068
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Октябрьская",
+                        "line_name": "Московская",
+                        "station_id": "62.410",
+                        "line_id": "62",
+                        "lat": 53.901562,
+                        "lng": 27.561068
+                    },
+                    {
+                        "station_name": "Площадь Победы",
+                        "line_name": "Московская",
+                        "station_id": "62.409",
+                        "line_id": "62",
+                        "lat": 53.908644,
+                        "lng": 27.575054
+                    }
+                ],
+                "id": "7684170"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-19T14:49:41+0300",
+            "created_at": "2023-10-19T14:49:41+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88404709",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88404709?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88404709",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Имели опыт работы со схожим функционалом от 3 лет. Знаете принципы работы рекламных каналов и есть опыт повышения их эффективности...",
+                "responsibility": "Изучать клиентские пути на сайте Банка, а также во всех цифровых каналах. Разрабатывать стратегию digital-продвижения банковских продуктов и услуг..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "163",
+                    "name": "Маркетолог-аналитик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "87897601",
+            "premium": false,
+            "name": "Менеджер по работе с VIP-клиентами (посредством дистанционных каналов связи)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": {
+                "from": 1500,
+                "to": null,
+                "currency": "BYR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Минск",
+                "street": "улица Притыцкого",
+                "building": "93",
+                "lat": 53.905923,
+                "lng": 27.439903,
+                "description": null,
+                "raw": "Минск, улица Притыцкого, 93",
+                "metro": {
+                    "station_name": "Каменная Горка",
+                    "line_name": "Автозаводская",
+                    "station_id": "63.416",
+                    "line_id": "63",
+                    "lat": 53.90683,
+                    "lng": 27.437558
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Каменная Горка",
+                        "line_name": "Автозаводская",
+                        "station_id": "63.416",
+                        "line_id": "63",
+                        "lat": 53.90683,
+                        "lng": 27.437558
+                    }
+                ],
+                "id": "12448214"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-11-02T10:03:41+0300",
+            "created_at": "2023-11-02T10:03:41+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=87897601",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/87897601?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/87897601",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее образование. Опыт работы в розничном бизнесе приветствуется. Навыки продаж, грамотная речь, развитые коммуникативные навыки. Нацеленность на результат, стрессоустойчивость, умение...",
+                "responsibility": "Осуществление функции персонального менеджера по работе с премиальными клиентами-физическими лицами посредством дистанционных каналов связи (телефон, мессенджеры, e-mail) по..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88580029",
+            "premium": false,
+            "name": "Клиентский менеджер (микро,малый и средний бизнес)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1007",
+                "name": "Брест",
+                "url": "https://api.hh.ru/areas/1007"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-24T12:38:29+0300",
+            "created_at": "2023-10-24T12:38:29+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88580029",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88580029?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88580029",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее образование. Опыт активных продаж банковских продуктов и услуг. Навыки ведения переговоров. Клиентоориентированность, коммуникабельность, энергичность. Ответственность, умение расставлять приоритеты, способность...",
+                "responsibility": "Активный поиск новых клиентов малого и микро бизнеса (звонки, встречи). Удержание и развитие отношений с действующими клиентами. Обеспечение высокого уровня..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88318218",
+            "premium": false,
+            "name": "Менеджер по продажам",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2280",
+                "name": "Жлобин",
+                "url": "https://api.hh.ru/areas/2280"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-18T08:41:47+0300",
+            "created_at": "2023-10-18T08:41:47+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88318218",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88318218?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88318218",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее образование. Приветствуется опыт работы в банке. Желание развиваться в сфере продаж, зарабатывать своей активностью. Высокие коммуникативные навыки, умение находить...",
+                "responsibility": "Качественное обслуживание входящего потока клиентов. Маршрутизация клиентов по зонам обслуживания. Консультирование клиентов, продажи розничных продуктов и услуг. Подключение сервисов удаленных..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "70",
+                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        },
+        {
+            "id": "88321917",
+            "premium": false,
+            "name": "Специалист по операционно-кассовой работе / кассир банка",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-10-18T09:31:52+0300",
+            "created_at": "2023-10-18T09:31:52+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88321917",
+            "branding": {
+                "type": "MAKEUP",
+                "tariff": null
+            },
+            "show_logo_in_search": true,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/88321917?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/88321917",
+            "relations": [],
+            "employer": {
+                "id": "829010",
+                "name": "Сбер Банк",
+                "url": "https://api.hh.ru/employers/829010",
+                "alternate_url": "https://hh.ru/employer/829010",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/919444.png",
+                    "90": "https://hhcdn.ru/employer-logo/4118352.png",
+                    "240": "https://hhcdn.ru/employer-logo/4118353.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=829010",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Желателен опыт работы с денежной наличностью, кассой. Уверенный пользователь MS Office. Ответственность, внимательность, честность, условия работы в режиме многозадачности, стрессоустойчивость.",
+                "responsibility": "Расчетно-кассовое обслуживание клиентов юридических и физических лиц. Работа с денежной наличностью. Прием платежей. Валютно-обменные операции."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "51",
+                    "name": "Кассир-операционист"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false
+        }
+    ],
+    "found": 34,
+    "pages": 4,
+    "per_page": 10,
+    "page": 1,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?employer_id=829010&enable_snippets=true&items_on_page=10&page=1"
+}
